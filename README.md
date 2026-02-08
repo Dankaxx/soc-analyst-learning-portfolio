@@ -1,10 +1,16 @@
 # Hi, I'm Dana :wave:
-##  SOC Analyst Learning Portfolio
+
+</br>
+
+# SOC Analyst Learning Portfolio
 
 </br>
 
 ## 🎓 About Me
+#### BSc Computing Science (2:1) 
+
 I am an aspiring SOC Analyst currently building my knowledge in cybersecurity, networking fundamentals, and incident analysis. My focus is on understanding how security incidents happen and how to investigate them.
+Passionate about cybersecurity, building hands-on IT skills, and aiming for a SOC analyst role.
 
 ## ⚡ Current Focus
 - SOC fundamentals  
@@ -26,7 +32,12 @@ I am an aspiring SOC Analyst currently building my knowledge in cybersecurity, n
 - GitHub  
 
 ## 🌱 Learning Journey
-This repository documents my progress as I develop the skills needed for an entry-level SOC Analyst role.
+I am building hands-on skills in SOC operations through labs, virtual machines, and guided exercises. This includes:
+- Investigating simulated cyberattacks  
+- Analyzing network traffic in Wireshark  
+- Practicing Active Directory management  
+- Completing TryHackMe challenges
+
 
 ## 📫 Contact
 LinkedIn: (add later)  
