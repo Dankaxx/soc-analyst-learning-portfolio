@@ -21,6 +21,23 @@ Passionate about cybersecurity, building hands-on IT skills, and aiming for a SO
 
 ---
 
+## 💡 Skills
+**Cybersecurity & SOC:**  
+- SOC fundamentals, Threat detection, Incident analysis  
+- Phishing and email analysis, Cyberattack fundamentals  
+
+**Networking & Systems:**  
+- Networking basics, Cisco Packet Tracer  
+- Wireshark network traffic analysis  
+- Active Directory management  
+
+**IT & Tools:**  
+- IT support fundamentals  
+- Protégé  
+- GitHub  
+
+---
+
 ## 🛠 Projects
 - Email Forensics Analysis Framework (University Project)  
 - SOC Learning Labs (in progress)  
@@ -47,4 +64,5 @@ I am building hands-on skills in SOC operations through labs, virtual machines, 
 ## 📫 Contact
 LinkedIn: (add later)  
 Portfolio Site: (Google Sites later)
+
 
